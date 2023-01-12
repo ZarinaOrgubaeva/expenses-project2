@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: auto;
+    padding: auto;
+}
+body{
+    background-color: #4b4b4b;
+}
+input {
+  width: 340px;
+  height: 39px;
+  background: #ffffff;
+  border-radius: 8px;
+  margin-left: 4%;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 48rem;
+    height: 5,68rem;
+    background: #ad9be9;
+    border-radius: 12px;
+}
+label{
+    margin-left: 4%;
+}
